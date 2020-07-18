@@ -8,7 +8,7 @@ Project source : https://github.com/azure-rtos/samples/releases
 - follow Azure_RTOS_STM32L475-DISCO_Azure_IoT_Quick_Connect_For_STM32CubeIDE.pdf
 
 Steps:
-1. > git clone https://github.com/sha1painkiller/stm-azurertos-workshop.git
+1. git clone https://github.com/sha1painkiller/stm-azurertos-workshop.git
 2. Create Azure IoT Hub for demo
 - IoT Hub -> Setting -> Shared access policies -> iothubowner -> Connection string
 - save Connection String for later use
