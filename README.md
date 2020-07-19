@@ -1,6 +1,6 @@
 # stm-azurertos-workshop
 For STM Azure RTOS workshop
-- STM32CubeIDE
+- STM32CubeIDE (can be downloaded from https://www.st.com/en/development-tools/stm32cubeide.html)
 - b-l475e-iot01a discovery board
 
 Project source : https://github.com/azure-rtos/samples/releases
